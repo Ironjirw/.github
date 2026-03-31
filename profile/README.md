@@ -85,9 +85,9 @@ Today, we serve manufacturers, agribusinesses, construction firms, and retailers
 
 ## Work With Us
 
-- **Businesses** — [Get a quote](https://ironji.com) and simplify your logistics
-- **Truck Owner-Drivers** — [Join our network](https://ironji.com) and grow your earnings
-- **Developers** — Interested in joining our team? [Reach out to us](https://ironji.com) — we provide repo access based on your role
+- **Businesses** — [Get an instant quote](https://ironji.com/en/quote) or [request a truck](https://ironji.com/en/request-truck) and simplify your logistics
+- **Truck Owner-Drivers** — [Join as a driver](https://ironji.com/en/join-as-a-driver) and grow your earnings
+- **Developers** — Interested in joining our team? Check out our [careers page](https://ironji.com/en/careers)
 
 ## Contact Us
 
