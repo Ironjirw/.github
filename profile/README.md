@@ -28,7 +28,7 @@
 
 | Service | Description |
 |---|---|
-| **Products Distribution** | Factory/warehouse to retailers nationwide — full truckload or LTL, multi-stop routes, scheduled or on-demand, covering all 30 districts of Rwanda |
+| **Products Distribution** | Factory/warehouse to retailers nationwide — full truckload or less-than-truckload, multi-stop routes, scheduled or on-demand, covering all 30 districts of Rwanda |
 | **Inter-Warehouse Transport** | Moving inventory between storage facilities with dedicated trucks, loading/unloading assistance, and climate-controlled options — up to 30 tons per truck |
 | **On-Demand Trucking** | Instant truck booking with 30-minute dispatch, any cargo type, flexible truck sizes from pickups to flatbeds |
 | **Logistics Planning** | Strategic distribution planning to multiple locations |
@@ -46,7 +46,7 @@
 
 ## Who We Serve
 
-- Manufacturing & FMCG companies
+- Manufacturing & fast-moving consumer goods companies
 - Agribusiness operations
 - Construction firms
 - Wholesalers & retailers
