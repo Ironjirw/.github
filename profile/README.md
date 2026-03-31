@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://ironji.com">Website</a> &bull;
-  <a href="https://www.facebook.com/ironji">Facebook</a> &bull;
-  <a href="https://www.instagram.com/ironji">Instagram</a> &bull;
-  <a href="https://x.com/ironji">X (Twitter)</a> &bull;
-  <a href="https://www.linkedin.com/company/ironji">LinkedIn</a>
+  <a href="https://www.facebook.com/Ironjiplatform">Facebook</a> &bull;
+  <a href="https://www.instagram.com/ironjirw">Instagram</a> &bull;
+  <a href="https://x.com/ironjirw">X (Twitter)</a> &bull;
+  <a href="https://linkedin.com/company/ironji">LinkedIn</a>
 </p>
 
 ---
